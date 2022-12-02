@@ -21,6 +21,6 @@ draft: false
 
 想了解太阳系请点击：[taiyangxi]<http://localhost:1313/post/second/>
 
-                  <https://github.com/starrevue/gchljycmhrrx.io/tree/second>
+<https://github.com/starrevue/gchljycmhrrx.io/tree/second>
 
 
